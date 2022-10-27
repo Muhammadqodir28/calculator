@@ -1,6 +1,6 @@
 # My Calculator
 
-Welcome to my project. It is My <a href="https://muhammadqodir-calculator.netlify.app/">Calculator<a/> project.
+Welcome to my project. It is My <a href="https://muhammadqodir-calculator.netlify.app/">Calculator</a> project.
 
 
 ## Acknowledgements
