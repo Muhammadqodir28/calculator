@@ -40,7 +40,7 @@ I learned more about ReactJs and AWS from this video
 Clone the project
 
 ```bash
-  git clone git remote add origin https://github.com/Muhammadqodir-2004/calculator.git
+  git clone git remote add origin https://github.com/Muhammadqodir28/calculator.git
 ```
 
 Go to the project directory
