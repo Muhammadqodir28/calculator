@@ -11,7 +11,7 @@ Welcome to my project. It is My <a href="https://muhammadqodir-calculator.netlif
 ## Authors
 
 Github
-- [@Muhammadqodir-2004](https://github.com/Muhammadqodir-2004/)
+- [@Muhammadqodir28](https://github.com/Muhammadqodir28/)
 
 ## Deployment
 
